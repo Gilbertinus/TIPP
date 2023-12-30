@@ -6,4 +6,3 @@ pandas_datareader
 dash==2.6.0
 dash_table
 gunicorn
-python==3.9
