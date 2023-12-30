@@ -4,6 +4,6 @@ scipy
 warnings
 plotly
 pandas_datareader
-dash
+dash==2.6.0
 dash_table
 gunicorn
