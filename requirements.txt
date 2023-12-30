@@ -6,3 +6,4 @@ plotly
 pandas_datareader
 dash
 dash_table
+gunicorn
