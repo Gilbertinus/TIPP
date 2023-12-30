@@ -1,7 +1,6 @@
 pandas
 numpy
 scipy
-warnings
 plotly
 pandas_datareader
 dash==2.6.0
