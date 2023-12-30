@@ -1,0 +1,8 @@
+pandas
+numpy
+scipy
+warnings
+plotly
+pandas_datareader
+dash
+dash_table
