@@ -1,8 +1,6 @@
 import pandas as pd
 import numpy as np
 from scipy.stats import linregress
-import warnings
-warnings.filterwarnings("ignore")
 import plotly.express as px
 import pandas_datareader as web
 from dash import Dash, dcc, html, Input, Output, callback
