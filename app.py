@@ -250,6 +250,7 @@ def stats_table(data, risk_free, benchmark, drawdown):
 font = "sans-serif"
 
 app = Dash(__name__)
+server = app.server
 
 app.layout = html.Div(style={"backgroundColor":"white"}, 
                       children=[
